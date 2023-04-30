@@ -23,6 +23,6 @@
 * 2
 * 3
 
-[네이버가자](https://naver.com)
+[가자](https://naver.com)
 
-```sdas```
+```ffff```
